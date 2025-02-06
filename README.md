@@ -58,6 +58,8 @@ The analysis is based on the **California Housing Dataset**, which contains the 
 2) https://scikit-learn.org/stable/auto_examples/inspection/plot_partial_dependence.html
 
 3) https://christophm.github.io/interpretable-ml-book/ale.html
+   
+4) https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
 
 # **Note**
 
